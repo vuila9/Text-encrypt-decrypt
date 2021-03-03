@@ -15,8 +15,8 @@ Header files: 	stdio.h --> for user's input
 		
 Launching Instruction:	open gnome-terminal on Ubuntu VM
 			redirect to the location where you have the file JohnNguyenA1.c
-			type "gcc -o yourPreferFileName JohnNguyenA1.c
-			type "./yourPreferFileName" to run the program
+			type "make a1"
+			type "./a1" to run the program
 			
 			*If you are using text editor to see the code, please adjust the 'Tab
 			width' to length 4.*
