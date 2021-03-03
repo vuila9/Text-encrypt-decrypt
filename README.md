@@ -10,6 +10,6 @@ Quick instructions:
   *Notice: The program only support limited text length, you can manually adjust this when editing the source code
 - When chooing Decrypt: paste the copied series of number from previously, add -1 at the end or else the program will not terminate properly
 
-See this attach video for better understanding
+See this attached video for better understanding
 
 https://youtu.be/1KN8W6bOUg4
