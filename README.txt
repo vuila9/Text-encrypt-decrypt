@@ -1,4 +1,4 @@
-Program author: John Nguyen (ID: 101162387)
+Program author: John Nguyen
 
 Purpose: The whole program will ask the user to choose if they want to encrypt any plain text they input,
 	 or decrypt any ciphertext they input.
@@ -8,15 +8,15 @@ Purpose: The whole program will ask the user to choose if they want to encrypt a
 	 Notice, in order to decrypt ciphertext, the user must include '-1' at the end of their ciphertext,
 	 or else the program will have to be manually terminated by pressing Ctrl-C.
 	 
-Source:	This zip file include a README.txt, JohnNguyenA1.c
+Source:	This zip file include a README.txt, maincode.c
 
 Header files: 	stdio.h --> for user's input
 		string.h --> for string usage
 		
 Launching Instruction:	open gnome-terminal on Ubuntu VM
-			redirect to the location where you have the file JohnNguyenA1.c
-			type "make a1"
-			type "./a1" to run the program
+			redirect to the location where you have the file maincode.c
+			type "make code"
+			type "./code" to run the program
 			
 			*If you are using text editor to see the code, please adjust the 'Tab
 			width' to length 4.*
